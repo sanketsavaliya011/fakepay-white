@@ -1,0 +1,46 @@
+{
+	"adstatus": false,
+	"specificad": false,
+	"alternatead": false,
+	"alternate_data": {
+		"Appopen": "Admob",
+		"Interstrial": "Facebook",
+		"Native": "Facebook",
+		"Banner": "Admob"
+	},
+	"Admob": {
+		"Admob_adstatus": false,
+		"Admob_Appopen": "ca-app-pub-3940256099942544/3419835294",
+		"Admob_Interstrial": "ca-app-pub-3940256099942544/1033173712",
+		"Admob_Native": "ca-app-pub-3940256099942544/2247696110",
+		"Admob_Banner": "ca-app-pub-3940256099942544/6300978111"
+	},
+	"Facebook": {
+		"FB_adstatus": false,
+		"FB_Interstrial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"FB_Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+	},
+	"Applovin": {
+		"Applovin_adstatus": false,
+		"Applovin_Interstrial": "",
+		"Applovin_Native": "",
+		"Applovin_Banner": ""
+	},
+	"AdCounter": {
+		"Inter_count": 0,
+		"Native_Count": 0,
+		"Banner_Count": 0,
+		"Back_Inter_count":0,
+		"onResumeOpenAd": false
+	},
+	"NativeBlink": false,
+	"NativeBanner": false,
+	"AdDialog": false,
+	"BackAd": false,
+	"BackAdPlatform": "Facebook",
+	"ExtraScreen": "0",
+	"PrivacyPolicy": ""
+}
+
+
