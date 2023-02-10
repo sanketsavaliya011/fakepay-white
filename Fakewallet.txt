@@ -6,7 +6,7 @@
 		"Appopen": "Admob",
 		"Interstrial": "Facebook",
 		"Native": "Facebook",
-		"Banner": "Admob"
+		"Banner": "Facebook"
 	},
 	"Admob": {
 		"Admob_adstatus": false,
