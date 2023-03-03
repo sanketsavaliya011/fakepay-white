@@ -32,12 +32,12 @@
 		"Native_Count": 0,
 		"Banner_Count": 0,
 		"Back_Inter_count":0,
-		"onResumeOpenAd": false
+		"onResumeOpenAd": true
 	},
 	"NativeBlink": false,
 	"NativeBanner": false,
 	"AdDialog": true,
-	"BackAd": false,
+	"BackAd": true,
 	"BackAdPlatform": "Admob",
 	"ExtraScreen": "3",
 	"PrivacyPolicy": ""
