@@ -9,14 +9,17 @@
 		"Banner": "Facebook"
 	},
 	"Admob": {
-		"Admob_adstatus": false,
-		"Admob_Appopen": "ca-app-pub-3940256099942544/3419835294",
-		"Admob_Interstrial": "ca-app-pub-3940256099942544/1033173712",
-		"Admob_Native": "ca-app-pub-3940256099942544/2247696110",
-		"Admob_Banner": "ca-app-pub-3940256099942544/6300978111"
+		"Admob_adstatus": true,
+		"Admob_Appopen": "/22349270898,22479114759/160c4dcd-ce12-4769-a18f-9aa5109f82d1/e6956043-bacf-4e16-954f-6302a4581516/e6956043-bacf-4e16-954f-6302a4581516-last
+",
+		"Admob_Interstrial": "/22349270898,22479114759/160c4dcd-ce12-4769-a18f-9aa5109f82d1/ee1f4f02-9ac7-4679-a259-ecbd1ecf889d/ee1f4f02-9ac7-4679-a259-ecbd1ecf889d-last
+",
+		"Admob_Native": "/22349270898,22479114759/160c4dcd-ce12-4769-a18f-9aa5109f82d1/98d08f65-7c76-4496-b663-cef69817e907/98d08f65-7c76-4496-b663-cef69817e907-last",
+		"Admob_Banner": "/22349270898,22479114759/160c4dcd-ce12-4769-a18f-9aa5109f82d1/65967a8c-a387-49dc-bf09-020a979cc5f1/65967a8c-a387-49dc-bf09-020a979cc5f1-last
+"
 	},
 	"Facebook": {
-		"FB_adstatus": true,
+		"FB_adstatus": false,
 		"FB_Interstrial": "1667532680366118_1683188565467196",
 		"FB_Native": "1667532680366118_1683188632133856",
 		"FB_Banner": "1667532680366118_1683188682133851"
