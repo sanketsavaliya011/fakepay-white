@@ -4,9 +4,9 @@
 	"alternatead": false,
 	"alternate_data": {
 		"Appopen": "Admob",
-		"Interstrial": "Facebook",
-		"Native": "Facebook",
-		"Banner": "Facebook"
+		"Interstrial": "Admob",
+		"Native": "Admob",
+		"Banner": "Admob"
 	},
 	"Admob": {
 		"Admob_adstatus": true,
